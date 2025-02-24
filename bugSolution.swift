@@ -1,0 +1,1 @@
+func myFunc() -> Int { let x:Int? = 10 guard let unwrappedX = x else { return 0 } return unwrappedX } 
