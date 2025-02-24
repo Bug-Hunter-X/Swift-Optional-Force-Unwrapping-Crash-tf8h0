@@ -1,0 +1,1 @@
+func myFunc() -> Int { let x:Int? = 10 print(x!) return x! }
